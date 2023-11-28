@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My Leave ListFrom DateTo DateShow Leave_3d2e66</name>
+   <tag></tag>
+   <elementGuidId>794a7782-db63-49b7-bec3-37323cfff55c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b13544ff-b989-4b72-9dd3-eabe0efcd9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>6849f592-6309-44b5-a8b5-5326f5470349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Leave ListFrom DateTo DateShow Leave with StatusSelectRejected Cancelled Pending Approval Scheduled Taken Leave TypeUS - Vacation * Required Reset  Search No Records FoundDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions</value>
+      <webElementGuid>357af57b-6bf4-43c3-ad4d-2602320ed45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>889f02d2-9ec6-4c1f-a710-ab253b5a8b3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>79855598-d0c6-42a0-9487-3beb51967e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>ccf28535-551d-40f9-9053-821cc7850ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[4]</value>
+      <webElementGuid>6da7ff68-8087-4d1c-973c-9642ce187a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>56dc3bdd-433b-4380-a156-cf29f1811c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My Leave ListFrom DateTo DateShow Leave with StatusSelectRejected Cancelled Pending Approval Scheduled Taken Leave TypeUS - Vacation * Required Reset  Search No Records FoundDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions' or . = 'My Leave ListFrom DateTo DateShow Leave with StatusSelectRejected Cancelled Pending Approval Scheduled Taken Leave TypeUS - Vacation * Required Reset  Search No Records FoundDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions')]</value>
+      <webElementGuid>9f1c00a4-a692-46db-acb2-4311d049f9fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

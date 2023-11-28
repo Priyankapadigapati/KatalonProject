@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Copyright 2018-2023. All Rights Reserve_e70724</name>
+   <tag></tag>
+   <elementGuidId>0039d694-b334-4fc5-9df0-771565b2ff4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.col-sm-4 > div.clearfix</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer_copyright']/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b02ca7cf-a826-45db-bae3-7294e26f4945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clearfix</value>
+      <webElementGuid>3ee2ca21-fb7d-4b7a-8700-df82843c6656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer_copyright&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-4&quot;]/div[@class=&quot;clearfix&quot;]</value>
+      <webElementGuid>61a6934b-d041-40db-94df-7fa1e09d1efa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer_copyright']/div/div/div[2]/div</value>
+      <webElementGuid>4504eadd-28bf-49b9-afac-64205ac5d844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright [2018-2023]. All Rights Reserved.'])[1]/following::div[2]</value>
+      <webElementGuid>19f1a14b-a122-4e55-9087-e7051d099688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This box is for spam protection - &lt;strong>please leave it blank&lt;/strong>:'])[1]/following::div[19]</value>
+      <webElementGuid>b6f4b906-d63a-4908-a233-e442917376a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/div/div[2]/div</value>
+      <webElementGuid>54e2ae5f-3fa4-4b5e-9362-f713a1eaf248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

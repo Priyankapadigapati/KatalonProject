@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee ReviewsEmployee NameJob Title-_695bdc</name>
+   <tag></tag>
+   <elementGuidId>18b3b7cb-188c-49c2-abb8-023a4b141158</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-table-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>151e70f4-159e-4ac3-af19-4cc9573d2cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-table-filter</value>
+      <webElementGuid>6302a593-a704-4b53-bd23-b914c924b6f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee ReviewsEmployee NameJob Title-- Select --Sub Unit-- Select --IncludeCurrent Employees OnlyReview Status-- Select --From DateTo Date Reset  Search </value>
+      <webElementGuid>7cf30ab0-5809-4b6c-b5ec-12e8d45759ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]</value>
+      <webElementGuid>af5cc11d-dce8-47c7-8888-d742123c085c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>c27e499c-414e-430d-a419-4effeedbaded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Reviews'])[1]/following::div[6]</value>
+      <webElementGuid>87f09d6b-5fc8-409e-a481-9bcab2e29fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[6]</value>
+      <webElementGuid>acb5a68f-8f5e-4b91-9390-97fcc405c1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>18f38e3c-b55e-42b9-8b18-7192ed08fb6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee ReviewsEmployee NameJob Title-- Select --Sub Unit-- Select --IncludeCurrent Employees OnlyReview Status-- Select --From DateTo Date Reset  Search ' or . = 'Employee ReviewsEmployee NameJob Title-- Select --Sub Unit-- Select --IncludeCurrent Employees OnlyReview Status-- Select --From DateTo Date Reset  Search ')]</value>
+      <webElementGuid>1283dc88-2db2-4705-bbb7-c9ed88cd9946</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

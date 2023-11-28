@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee Performance TrackersEmployee N_6e7188</name>
+   <tag></tag>
+   <elementGuidId>85f3f3e6-ce09-488d-aa35-2cf1046e0c97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b0be227-86b7-4d2e-a174-eb9f48fa7400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>a8956541-9e58-4db7-bd57-bda4f6953a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee Performance TrackersEmployee NameIncludeCurrent Employees Only Reset  Search (1) Record FoundEmployee NameAscendingDescendingTrackersAscendingDescendingAdded DateAscendingDescendingModified DateAscendingDescendingActionsmohitasd  abc Tracker for paul2022-08-05 View </value>
+      <webElementGuid>5b1eb4eb-b1cf-4bea-a590-51b3e7246c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>c4743299-243f-4430-a563-55c64e7c27f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>3b0672a7-1a54-4bc3-a4e7-bde7c69d9ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Reviews'])[1]/following::div[4]</value>
+      <webElementGuid>50b931a2-dfc5-4e68-9ffa-83aee9ca40a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[4]</value>
+      <webElementGuid>6b0795cd-8b48-4fa9-bfd1-3b15530a06cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>1c66423d-bc50-4898-9dd8-e664b02c32f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee Performance TrackersEmployee NameIncludeCurrent Employees Only Reset  Search (1) Record FoundEmployee NameAscendingDescendingTrackersAscendingDescendingAdded DateAscendingDescendingModified DateAscendingDescendingActionsmohitasd  abc Tracker for paul2022-08-05 View ' or . = 'Employee Performance TrackersEmployee NameIncludeCurrent Employees Only Reset  Search (1) Record FoundEmployee NameAscendingDescendingTrackersAscendingDescendingAdded DateAscendingDescendingModified DateAscendingDescendingActionsmohitasd  abc Tracker for paul2022-08-05 View ')]</value>
+      <webElementGuid>463c9a2a-d1f2-45b3-972c-b5afe5a49cc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

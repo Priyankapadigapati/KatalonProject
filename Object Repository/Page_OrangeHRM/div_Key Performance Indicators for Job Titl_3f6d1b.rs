@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Key Performance Indicators for Job Titl_3f6d1b</name>
+   <tag></tag>
+   <elementGuidId>cc0a6fea-d7a6-45bc-b38d-e8c2ab60dcab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>afe94bb6-1ca0-4442-aba2-a3ea003567af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>07191287-0320-4e1a-a216-32fb8922bedf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Key Performance Indicators for Job TitleJob Title-- Select -- Reset  Search  Add  (50) Records FoundKey Performance IndicatorAscendingDescendingJob TitleAscendingDescendingMin RateMax RateIs DefaultActionsAssess information to develop strategiesPayroll Administrator0100Authored TestsQA Lead0100Average Service Fulfillment TimeDatabase Administrator0100Capacity PlanningDatabase Administrator0100Collect the quantitative information requiredHR Associate0100Creation and maintenance of documentation for all customer and internal networksNetwork Administrator0100Decision-Making AnalysisSoftware Architect0100Decision-Making AnalysisQA Lead0100Decision-Making AnalysisIT Manager0100Decision-Making AnalysisHR Associate0100Delivery of quality technical and engineering adviceNetwork Administrator0100Develop and evaluate strategiesSoftware Architect0100Driven to deliverIT Manager0100Formal management of staff performance and responsibilitiesHR Manager0100YesIntegrity Self-DevelopmentPayroll Administrator0100Maintain high quality 24/7 operations of all the company’s IT systems and interestsNetwork Administrator0100Passed TestsQA Engineer0100Personal Capability AchievedHR Manager0100Personally credibleHR Manager0100Personally credibleHR Associate0100Personally crediblePayroll Administrator0100Planning MethodologiesSoftware Architect0100Planning MethodologiesQA Lead0100Planning MethodologiesIT Manager0100Planning MethodologiesNetwork Administrator0100Planning MethodologiesDatabase Administrator0100Positive CommitmentSoftware Architect0100Positive CommitmentIT Manager0100Positive CommitmentHR Manager0100Positive CommitmentHR Associate0100Positive CommitmentPayroll Administrator0100Product ManagementIT Manager0100Query PerformanceDatabase Administrator0100Rejected DefectsQA Engineer0100Security or Risk AssessmentDatabase Administrator0100Sharing KnowledgeSoftware Architect0100Sharing KnowledgeQA Engineer0100Sharing KnowledgeQA Lead0100Stress Tolerance FlexibilityNetwork Administrator0100Stress Tolerance FlexibilityPayroll Administrator0100Succession Plans in PlaceHR Manager0100Supporting Each OtherSoftware Engineer0100Supporting Each OtherQA Lead0100Supporting Each OtherHR Associate0100Tests ExecutedQA Engineer0100Tracking active defectsQA Engineer0100Working on Code ChurnSoftware Engineer0100Writing Simple CodeSoftware Engineer0100Writing Stable CodeSoftware Engineer0100Writing Testable CodeSoftware Engineer0100</value>
+      <webElementGuid>a3a7b2f8-6b8f-43cb-8303-d32037d5db85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>c9a2405b-5ead-4c87-a6cb-e45456c77836</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>265b0dd4-9db0-4931-8fb6-0a32da281e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Reviews'])[1]/following::div[5]</value>
+      <webElementGuid>262e7f17-9d8a-4a5e-9a04-837caab62402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[5]</value>
+      <webElementGuid>c816aa03-2fce-4b8c-a3fe-de981cebfd22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>5ba0e87f-df86-4104-9259-aacce0c5f742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Key Performance Indicators for Job TitleJob Title-- Select -- Reset  Search  Add  (50) Records FoundKey Performance IndicatorAscendingDescendingJob TitleAscendingDescendingMin RateMax RateIs DefaultActionsAssess information to develop strategiesPayroll Administrator0100Authored TestsQA Lead0100Average Service Fulfillment TimeDatabase Administrator0100Capacity PlanningDatabase Administrator0100Collect the quantitative information requiredHR Associate0100Creation and maintenance of documentation for all customer and internal networksNetwork Administrator0100Decision-Making AnalysisSoftware Architect0100Decision-Making AnalysisQA Lead0100Decision-Making AnalysisIT Manager0100Decision-Making AnalysisHR Associate0100Delivery of quality technical and engineering adviceNetwork Administrator0100Develop and evaluate strategiesSoftware Architect0100Driven to deliverIT Manager0100Formal management of staff performance and responsibilitiesHR Manager0100YesIntegrity Self-DevelopmentPayroll Administrator0100Maintain high quality 24/7 operations of all the company’s IT systems and interestsNetwork Administrator0100Passed TestsQA Engineer0100Personal Capability AchievedHR Manager0100Personally credibleHR Manager0100Personally credibleHR Associate0100Personally crediblePayroll Administrator0100Planning MethodologiesSoftware Architect0100Planning MethodologiesQA Lead0100Planning MethodologiesIT Manager0100Planning MethodologiesNetwork Administrator0100Planning MethodologiesDatabase Administrator0100Positive CommitmentSoftware Architect0100Positive CommitmentIT Manager0100Positive CommitmentHR Manager0100Positive CommitmentHR Associate0100Positive CommitmentPayroll Administrator0100Product ManagementIT Manager0100Query PerformanceDatabase Administrator0100Rejected DefectsQA Engineer0100Security or Risk AssessmentDatabase Administrator0100Sharing KnowledgeSoftware Architect0100Sharing KnowledgeQA Engineer0100Sharing KnowledgeQA Lead0100Stress Tolerance FlexibilityNetwork Administrator0100Stress Tolerance FlexibilityPayroll Administrator0100Succession Plans in PlaceHR Manager0100Supporting Each OtherSoftware Engineer0100Supporting Each OtherQA Lead0100Supporting Each OtherHR Associate0100Tests ExecutedQA Engineer0100Tracking active defectsQA Engineer0100Working on Code ChurnSoftware Engineer0100Writing Simple CodeSoftware Engineer0100Writing Stable CodeSoftware Engineer0100Writing Testable CodeSoftware Engineer0100' or . = 'Key Performance Indicators for Job TitleJob Title-- Select -- Reset  Search  Add  (50) Records FoundKey Performance IndicatorAscendingDescendingJob TitleAscendingDescendingMin RateMax RateIs DefaultActionsAssess information to develop strategiesPayroll Administrator0100Authored TestsQA Lead0100Average Service Fulfillment TimeDatabase Administrator0100Capacity PlanningDatabase Administrator0100Collect the quantitative information requiredHR Associate0100Creation and maintenance of documentation for all customer and internal networksNetwork Administrator0100Decision-Making AnalysisSoftware Architect0100Decision-Making AnalysisQA Lead0100Decision-Making AnalysisIT Manager0100Decision-Making AnalysisHR Associate0100Delivery of quality technical and engineering adviceNetwork Administrator0100Develop and evaluate strategiesSoftware Architect0100Driven to deliverIT Manager0100Formal management of staff performance and responsibilitiesHR Manager0100YesIntegrity Self-DevelopmentPayroll Administrator0100Maintain high quality 24/7 operations of all the company’s IT systems and interestsNetwork Administrator0100Passed TestsQA Engineer0100Personal Capability AchievedHR Manager0100Personally credibleHR Manager0100Personally credibleHR Associate0100Personally crediblePayroll Administrator0100Planning MethodologiesSoftware Architect0100Planning MethodologiesQA Lead0100Planning MethodologiesIT Manager0100Planning MethodologiesNetwork Administrator0100Planning MethodologiesDatabase Administrator0100Positive CommitmentSoftware Architect0100Positive CommitmentIT Manager0100Positive CommitmentHR Manager0100Positive CommitmentHR Associate0100Positive CommitmentPayroll Administrator0100Product ManagementIT Manager0100Query PerformanceDatabase Administrator0100Rejected DefectsQA Engineer0100Security or Risk AssessmentDatabase Administrator0100Sharing KnowledgeSoftware Architect0100Sharing KnowledgeQA Engineer0100Sharing KnowledgeQA Lead0100Stress Tolerance FlexibilityNetwork Administrator0100Stress Tolerance FlexibilityPayroll Administrator0100Succession Plans in PlaceHR Manager0100Supporting Each OtherSoftware Engineer0100Supporting Each OtherQA Lead0100Supporting Each OtherHR Associate0100Tests ExecutedQA Engineer0100Tracking active defectsQA Engineer0100Working on Code ChurnSoftware Engineer0100Writing Simple CodeSoftware Engineer0100Writing Stable CodeSoftware Engineer0100Writing Testable CodeSoftware Engineer0100')]</value>
+      <webElementGuid>5b8c590f-9ed5-4da5-93a4-9df75315b693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

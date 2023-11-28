@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Mail Sent AsSending MethodSECURE SMTPS_2da14d</name>
+   <tag></tag>
+   <elementGuidId>ae49618d-4cd5-440b-bda3-96f1ff9cfb8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.oxd-form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>ea63e4d5-2b4e-4f52-aec1-6ace030771ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-form</value>
+      <webElementGuid>2f223948-e1b6-4073-829d-12038b8e941e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mail Sent AsSending MethodSECURE SMTPSMTPSendmailSMTP HostRequiredSMTP PortUse SMTP AuthenticationYesNoTLSOptional - the mail server requires the use of TLS security.Send Test MailTest Email AddressExpected format: admin@example.com * Required Reset  Save </value>
+      <webElementGuid>d65cb8ad-11c7-425d-a913-fb149c0501eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]</value>
+      <webElementGuid>eac118bb-c66e-427a-afbd-a2f5e42b6093</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form</value>
+      <webElementGuid>ec6290cc-549f-4393-8526-708e4372b299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::form[1]</value>
+      <webElementGuid>b46cada2-1fdc-4379-ac7b-3cc7e9abda73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::form[1]</value>
+      <webElementGuid>c024ddc7-60ec-4cbb-9fce-41b55be51076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>5d8db17b-6435-4444-816f-99e02a016b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Mail Sent AsSending MethodSECURE SMTPSMTPSendmailSMTP HostRequiredSMTP PortUse SMTP AuthenticationYesNoTLSOptional - the mail server requires the use of TLS security.Send Test MailTest Email AddressExpected format: admin@example.com * Required Reset  Save ' or . = 'Mail Sent AsSending MethodSECURE SMTPSMTPSendmailSMTP HostRequiredSMTP PortUse SMTP AuthenticationYesNoTLSOptional - the mail server requires the use of TLS security.Send Test MailTest Email AddressExpected format: admin@example.com * Required Reset  Save ')]</value>
+      <webElementGuid>f5735eb5-4498-46dd-8205-20953efc4fc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

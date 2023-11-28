@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Administrator AccessYou have requested _723b17</name>
+   <tag></tag>
+   <elementGuidId>67cdad56-6c0d-45e3-b04a-c745c001a666</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-card-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f5c6ba8-3d6a-40c4-a30e-bd554e9c13bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-card-container</value>
+      <webElementGuid>cc2ae7a0-2aa8-47ae-84b0-ab9260ef8e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Administrator AccessYou have requested to access a critical Administrator function in OrangeHRM and are required to validate your credentials belowUsernamePassword Cancel  Confirm </value>
+      <webElementGuid>aa3597c2-34cd-4b60-8d51-61f4f5c44ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-admin-access-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]</value>
+      <webElementGuid>e9454fb9-8e68-4912-868c-a6b6cb5cab63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div</value>
+      <webElementGuid>7d36ae5e-f6d5-42a9-805b-5433f090ae08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>b396d26e-c952-493d-b4f4-6daf57668ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Administrator AccessYou have requested to access a critical Administrator function in OrangeHRM and are required to validate your credentials belowUsernamePassword Cancel  Confirm ' or . = 'Administrator AccessYou have requested to access a critical Administrator function in OrangeHRM and are required to validate your credentials belowUsernamePassword Cancel  Confirm ')]</value>
+      <webElementGuid>4a3a9211-ae3d-4fff-9479-8346699c426c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

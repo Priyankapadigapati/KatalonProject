@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Home</name>
+   <tag></tag>
+   <elementGuidId>a86dd911-8a0f-479a-99fa-c3934a8d4c3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapse.navbar-collapse.pull-right > ul.header-menu.clearfix > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-home.menu-item-39 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>67f0a059-d111-4403-8e5c-8d656ac1c175</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nxtgenaiacademy.com/</value>
+      <webElementGuid>57a74f14-e34b-4cd6-9e18-0858ed081535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>9a0c90e2-c594-4ad0-8a61-f71f8b09f691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header_default header_default&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-9 col-sm-offset-0 hidden-xs hidden-sm&quot;]/div[@class=&quot;header_main_menu_wrapper clearfix&quot;]/div[@class=&quot;collapse navbar-collapse pull-right&quot;]/ul[@class=&quot;header-menu clearfix&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-39&quot;]/a[1]</value>
+      <webElementGuid>eee2acc6-59bb-4164-9514-0bd6e48936dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li/a</value>
+      <webElementGuid>9a01f761-8a43-4d54-831e-5093b042919f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Home')])[2]</value>
+      <webElementGuid>3cd0fb3b-30ca-412c-9fdc-864be815fa50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java'])[1]/following::a[1]</value>
+      <webElementGuid>002c9105-4127-4a74-9b37-7ace064b113e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agile'])[1]/following::a[2]</value>
+      <webElementGuid>0b56a71d-b3cf-4ef9-8609-25b924158da1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Offered'])[2]/preceding::a[1]</value>
+      <webElementGuid>ba826989-2c76-4f5b-86cf-b39d2d177e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QA Automation Course Brochure.'])[2]/preceding::a[2]</value>
+      <webElementGuid>4bb54204-6afe-469b-8675-8befd3a6b706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nxtgenaiacademy.com/')])[17]</value>
+      <webElementGuid>6d56d9cd-b865-40ad-8e03-847bad4c8020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>aad8709a-1898-47fc-98f5-1e058a6ab132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nxtgenaiacademy.com/' and (text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>3d625667-a942-4e14-9be1-8c1ce2bb5fa4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CandidatesJob Title-- Select --Vacancy-_862748</name>
+   <tag></tag>
+   <elementGuidId>83301c38-b95c-43ac-a2c5-c0a95870b33a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-table-filter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3455f37-1fc2-4d38-95c4-7820bc565007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-table-filter</value>
+      <webElementGuid>5c330617-2aa5-419c-ac25-1dc77885e432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CandidatesJob Title-- Select --Vacancy-- Select --Hiring Manager-- Select --Status-- Select --Candidate NameKeywordsDate of Application Method of Application-- Select -- Reset  Search </value>
+      <webElementGuid>7566cdb1-76b0-41b8-82a5-c59fb5602830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-candidate-page&quot;]/div[@class=&quot;oxd-table-filter&quot;]</value>
+      <webElementGuid>41557006-0c1a-4a53-b0fb-05030849ea1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>793adc09-a80c-4387-9cdc-c947ced83f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>7580971c-ebd2-402c-9e0f-8cea364be68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CandidatesJob Title-- Select --Vacancy-- Select --Hiring Manager-- Select --Status-- Select --Candidate NameKeywordsDate of Application Method of Application-- Select -- Reset  Search ' or . = 'CandidatesJob Title-- Select --Vacancy-- Select --Hiring Manager-- Select --Status-- Select --Candidate NameKeywordsDate of Application Method of Application-- Select -- Reset  Search ')]</value>
+      <webElementGuid>e2ea2b50-6652-4cc9-ab09-91f52382414d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

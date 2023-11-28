@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee Performance TrackersEmployee N_476cef</name>
+   <tag></tag>
+   <elementGuidId>905eab2d-d064-4fbd-91d0-0f70ca1af809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf5e4c75-9e5d-409b-9433-bada055b95b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>29c9a229-781e-4e6e-873f-5c06d30fb09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee Performance TrackersEmployee NameIncludeCurrent Employees Only Reset  Search  (5) Records FoundEmployee NameAscendingDescendingTrackersAscendingDescendingAdded DateAscendingDescendingModified DateAscendingDescendingActionsCharlie Carter Tracker for charlie2022-08-05 View Charlie Carter Tracker for charlie 22022-08-05 View Charlie Carter Commitments and Deadlines2022-08-05 View cr7 777 Tracker for paul2022-08-05 View Kevin Mathews Tracker for kevin2022-08-05 View </value>
+      <webElementGuid>c7b02302-8e26-4f2a-84ba-3bfefd8a0597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>8f01e3b7-4a2a-41e7-ab56-5f36578b4b69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>1511c726-242c-4757-bf8e-788aba000d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Reviews'])[1]/following::div[5]</value>
+      <webElementGuid>f2ed0aad-592e-47b6-9a70-f0a255972e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[5]</value>
+      <webElementGuid>b6ca4f45-a32e-4431-8594-bb0a023bdbaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>ba02a2d6-5fe8-4b1d-8918-6fdf4e037511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee Performance TrackersEmployee NameIncludeCurrent Employees Only Reset  Search  (5) Records FoundEmployee NameAscendingDescendingTrackersAscendingDescendingAdded DateAscendingDescendingModified DateAscendingDescendingActionsCharlie Carter Tracker for charlie2022-08-05 View Charlie Carter Tracker for charlie 22022-08-05 View Charlie Carter Commitments and Deadlines2022-08-05 View cr7 777 Tracker for paul2022-08-05 View Kevin Mathews Tracker for kevin2022-08-05 View ' or . = 'Employee Performance TrackersEmployee NameIncludeCurrent Employees Only Reset  Search  (5) Records FoundEmployee NameAscendingDescendingTrackersAscendingDescendingAdded DateAscendingDescendingModified DateAscendingDescendingActionsCharlie Carter Tracker for charlie2022-08-05 View Charlie Carter Tracker for charlie 22022-08-05 View Charlie Carter Commitments and Deadlines2022-08-05 View cr7 777 Tracker for paul2022-08-05 View Kevin Mathews Tracker for kevin2022-08-05 View ')]</value>
+      <webElementGuid>e28f3bee-5f85-4ed5-8134-069a30ea25f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

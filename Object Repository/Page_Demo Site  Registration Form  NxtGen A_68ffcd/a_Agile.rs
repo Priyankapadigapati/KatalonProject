@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Agile</name>
+   <tag></tag>
+   <elementGuidId>6ded944d-2cc0-4d56-aa77-ce4bcede1d5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapse.navbar-collapse.pull-right > ul.header-menu.clearfix > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-7004 > ul.sub-menu > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-6338 > ul.sub-menu > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-6341 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li[6]/ul/li[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6195406c-3005-4615-b5cc-b03822bb48f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://youtube.com/playlist?list=PLNUKIBJDwfVu7gb0F7rGHdws3aPNehfeB</value>
+      <webElementGuid>7fd9919a-fff0-4170-a202-29c1fd7678fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agile</value>
+      <webElementGuid>e7e8585b-91cb-4368-a62a-5dd705b825ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header_default header_default&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-9 col-sm-offset-0 hidden-xs hidden-sm&quot;]/div[@class=&quot;header_main_menu_wrapper clearfix&quot;]/div[@class=&quot;collapse navbar-collapse pull-right&quot;]/ul[@class=&quot;header-menu clearfix&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7004&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6338&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-6341&quot;]/a[1]</value>
+      <webElementGuid>46b270e6-a285-4f21-a09a-9c2a2bb0d21e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li[6]/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>e7b671a0-b031-41a3-9720-4e7f91ce1f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Agile')])[2]</value>
+      <webElementGuid>3bb9ed0e-6f8c-4dbb-a94f-2ed2eaaf68b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestNG'])[4]/following::a[1]</value>
+      <webElementGuid>7469ad93-d332-46b8-96c5-984a586463e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium WebDriver'])[2]/following::a[2]</value>
+      <webElementGuid>5c426706-dd61-438a-8c79-37cf116ef477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Java'])[2]/preceding::a[1]</value>
+      <webElementGuid>8100ec84-7139-4d95-abaf-ef84efb7227d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register For Demo'])[1]/preceding::a[2]</value>
+      <webElementGuid>6ff2a836-96ce-4134-8662-e9a9307a672d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://youtube.com/playlist?list=PLNUKIBJDwfVu7gb0F7rGHdws3aPNehfeB')])[2]</value>
+      <webElementGuid>bd709a38-d1c3-43a2-850d-20c654768138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[6]/ul/li[2]/ul/li[3]/a</value>
+      <webElementGuid>1ee2d820-90c7-4699-821e-44fabedd5330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://youtube.com/playlist?list=PLNUKIBJDwfVu7gb0F7rGHdws3aPNehfeB' and (text() = 'Agile' or . = 'Agile')]</value>
+      <webElementGuid>062cfba8-acf9-4513-b8f3-b214f6d56022</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

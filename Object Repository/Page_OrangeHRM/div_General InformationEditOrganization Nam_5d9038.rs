@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_General InformationEditOrganization Nam_5d9038</name>
+   <tag></tag>
+   <elementGuidId>cafc928e-fc5d-4dc0-825d-898a8b239a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-card-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f8a9d7c-e0fe-4f3d-80a2-2ac2bd9782a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-card-container</value>
+      <webElementGuid>92638ec6-092b-4b7c-ba23-a3c2733c7cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General InformationEditOrganization NameNumber of Employees54Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountryUnited StatesNotes * Required</value>
+      <webElementGuid>5caa4c45-53a5-4950-ba6f-5f5081d53c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]</value>
+      <webElementGuid>eb273a48-e6ac-47c9-afda-f474d9687283</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>0474e9d8-8f85-4c94-8582-b98c1a257501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[6]</value>
+      <webElementGuid>40bb5b4f-6c27-4655-b4aa-b55b24f08203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[6]</value>
+      <webElementGuid>adcca9e7-99e4-49b7-91ed-bf05ae73a06c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>e66c3a0f-150c-41bb-a0b5-5ba991ea510a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'General InformationEditOrganization NameNumber of Employees54Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountryUnited StatesNotes * Required' or . = 'General InformationEditOrganization NameNumber of Employees54Registration NumberTax IDPhoneFaxEmailAddress Street 1Address Street 2CityState/ProvinceZip/Postal CodeCountryUnited StatesNotes * Required')]</value>
+      <webElementGuid>06b91d94-c9a5-4fae-8439-a4230273eb4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

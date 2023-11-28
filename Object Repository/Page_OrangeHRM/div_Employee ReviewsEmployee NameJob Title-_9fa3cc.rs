@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee ReviewsEmployee NameJob Title-_9fa3cc</name>
+   <tag></tag>
+   <elementGuidId>9aea87c3-4f45-4b73-90ee-fb4a72650086</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96b19d01-b6ff-471c-8de1-0000aa6eb1f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>1f4640bb-9794-44ca-a07e-258a99179efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee ReviewsEmployee NameJob Title-- Select --Sub Unit-- Select --IncludeCurrent Employees OnlyReview Status-- Select --From DateTo Date Reset  Search No Records FoundEmployeeAscendingDescendingJob TitleSub UnitReview PeriodAscendingDescendingDue DateAscendingDescendingReview StatusAscendingDescendingActions</value>
+      <webElementGuid>28264dfb-7dae-4def-b51e-fc8336b40d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>5e1cca3d-d423-482b-851a-1e40bee35238</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>cc483c60-b411-4acf-94fc-a9bed1e3ef42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Reviews'])[1]/following::div[5]</value>
+      <webElementGuid>1034b63e-c48c-4567-bc8d-c43f495449de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[5]</value>
+      <webElementGuid>8e213d32-2c2c-4d5f-a498-79e2e3362430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>d4068d67-0a08-4e67-806e-3ec5155f03f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee ReviewsEmployee NameJob Title-- Select --Sub Unit-- Select --IncludeCurrent Employees OnlyReview Status-- Select --From DateTo Date Reset  Search No Records FoundEmployeeAscendingDescendingJob TitleSub UnitReview PeriodAscendingDescendingDue DateAscendingDescendingReview StatusAscendingDescendingActions' or . = 'Employee ReviewsEmployee NameJob Title-- Select --Sub Unit-- Select --IncludeCurrent Employees OnlyReview Status-- Select --From DateTo Date Reset  Search No Records FoundEmployeeAscendingDescendingJob TitleSub UnitReview PeriodAscendingDescendingDue DateAscendingDescendingReview StatusAscendingDescendingActions')]</value>
+      <webElementGuid>1301dbbc-93e1-44e3-8079-5b5890844689</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

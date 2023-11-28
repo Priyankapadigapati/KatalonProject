@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Leave ListFrom DateTo DateShow Leave wi_814957</name>
+   <tag></tag>
+   <elementGuidId>5fa9c820-cee3-4f2d-85dd-bd494c05100c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2888cfc5-5995-4daa-b6de-f1bdd0beea4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>1afd7850-d92c-41f0-8477-86dc13a956a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leave ListFrom DateTo DateShow Leave with StatusSelectPending Approval Leave Type-- Select --Employee NameSub Unit-- Select --Include Past Employees * Required Reset  Search  (12) Records FoundDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions2022-07-28 to 2022-07-29Anthony  NolanCAN - Personal12.502.00Pending Approval (2.00) Approve  Reject 2022-07-26Aaliyah  HaqUS - Personal11.501.00Pending Approval (1.00) Approve  Reject 2022-07-25 (09:00 - 13:00) Half DayAnthony  NolanCAN - Personal12.500.50Pending Approval (0.50) Approve  Reject 2022-07-22 (13:00 - 17:00) Half DayAnthony  NolanCAN - Vacation7.000.50Pending Approval (0.50) Approve  Reject 2022-07-21Linda Jane AndersonCAN - Personal12.001.00Pending Approval (1.00) Approve  Reject 2022-07-18 to 2022-07-19Charlie  CarterUS - Personal9.002.00Pending Approval (2.00) Approve  Reject 2022-07-15 (09:00 - 13:00) Half DayCharlie  CarterUS - Personal9.000.50Pending Approval (0.50) Approve  Reject 2022-07-11 to 2022-07-12Linda Jane AndersonCAN - Vacation8.002.00Pending Approval (2.00) Approve  Reject 2022-07-08 to 2022-07-11Aaliyah  HaqUS - Vacation8.501.50Pending Approval (1.50) Approve  Reject 2022-07-07 to 2022-07-08Linda Jane AndersonCAN - Personal12.002.00Pending Approval (2.00) Approve  Reject 2022-07-07 to 2022-07-11Anthony  NolanCAN - Vacation7.002.50Pending Approval (2.50) Approve  Reject 2022-07-05Charlie  CarterUS - Vacation9.001.00Pending Approval (1.00) Approve  Reject </value>
+      <webElementGuid>8e991c96-9e28-43cf-96a0-c975d494104a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>a3c3cac3-3184-4ef5-878d-9f5f0347d765</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>06f3c9f3-4280-4c0a-a109-24877566751b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[4]</value>
+      <webElementGuid>8990babd-5359-46f6-af98-c4f49ec3560c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure'])[1]/following::div[4]</value>
+      <webElementGuid>4cfc8727-ee14-48a5-be57-da4ba3729387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>8c8ed496-cc2e-44a0-b1de-07b2d64a8a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Leave ListFrom DateTo DateShow Leave with StatusSelectPending Approval Leave Type-- Select --Employee NameSub Unit-- Select --Include Past Employees * Required Reset  Search  (12) Records FoundDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions2022-07-28 to 2022-07-29Anthony  NolanCAN - Personal12.502.00Pending Approval (2.00) Approve  Reject 2022-07-26Aaliyah  HaqUS - Personal11.501.00Pending Approval (1.00) Approve  Reject 2022-07-25 (09:00 - 13:00) Half DayAnthony  NolanCAN - Personal12.500.50Pending Approval (0.50) Approve  Reject 2022-07-22 (13:00 - 17:00) Half DayAnthony  NolanCAN - Vacation7.000.50Pending Approval (0.50) Approve  Reject 2022-07-21Linda Jane AndersonCAN - Personal12.001.00Pending Approval (1.00) Approve  Reject 2022-07-18 to 2022-07-19Charlie  CarterUS - Personal9.002.00Pending Approval (2.00) Approve  Reject 2022-07-15 (09:00 - 13:00) Half DayCharlie  CarterUS - Personal9.000.50Pending Approval (0.50) Approve  Reject 2022-07-11 to 2022-07-12Linda Jane AndersonCAN - Vacation8.002.00Pending Approval (2.00) Approve  Reject 2022-07-08 to 2022-07-11Aaliyah  HaqUS - Vacation8.501.50Pending Approval (1.50) Approve  Reject 2022-07-07 to 2022-07-08Linda Jane AndersonCAN - Personal12.002.00Pending Approval (2.00) Approve  Reject 2022-07-07 to 2022-07-11Anthony  NolanCAN - Vacation7.002.50Pending Approval (2.50) Approve  Reject 2022-07-05Charlie  CarterUS - Vacation9.001.00Pending Approval (1.00) Approve  Reject ' or . = 'Leave ListFrom DateTo DateShow Leave with StatusSelectPending Approval Leave Type-- Select --Employee NameSub Unit-- Select --Include Past Employees * Required Reset  Search  (12) Records FoundDateEmployee NameLeave TypeLeave Balance (Days)Number of DaysStatusCommentsActions2022-07-28 to 2022-07-29Anthony  NolanCAN - Personal12.502.00Pending Approval (2.00) Approve  Reject 2022-07-26Aaliyah  HaqUS - Personal11.501.00Pending Approval (1.00) Approve  Reject 2022-07-25 (09:00 - 13:00) Half DayAnthony  NolanCAN - Personal12.500.50Pending Approval (0.50) Approve  Reject 2022-07-22 (13:00 - 17:00) Half DayAnthony  NolanCAN - Vacation7.000.50Pending Approval (0.50) Approve  Reject 2022-07-21Linda Jane AndersonCAN - Personal12.001.00Pending Approval (1.00) Approve  Reject 2022-07-18 to 2022-07-19Charlie  CarterUS - Personal9.002.00Pending Approval (2.00) Approve  Reject 2022-07-15 (09:00 - 13:00) Half DayCharlie  CarterUS - Personal9.000.50Pending Approval (0.50) Approve  Reject 2022-07-11 to 2022-07-12Linda Jane AndersonCAN - Vacation8.002.00Pending Approval (2.00) Approve  Reject 2022-07-08 to 2022-07-11Aaliyah  HaqUS - Vacation8.501.50Pending Approval (1.50) Approve  Reject 2022-07-07 to 2022-07-08Linda Jane AndersonCAN - Personal12.002.00Pending Approval (2.00) Approve  Reject 2022-07-07 to 2022-07-11Anthony  NolanCAN - Vacation7.002.50Pending Approval (2.50) Approve  Reject 2022-07-05Charlie  CarterUS - Vacation9.001.00Pending Approval (1.00) Approve  Reject ')]</value>
+      <webElementGuid>cfd294b6-d4bf-49b7-9a96-29de009c0c80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

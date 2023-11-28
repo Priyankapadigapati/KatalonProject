@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TechTalk</name>
+   <tag></tag>
+   <elementGuidId>e7e83953-6563-46d4-8a35-4453bdec578a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapse.navbar-collapse.pull-right > ul.header-menu.clearfix > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-6374 > ul.sub-menu > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5294 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li[4]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d5b91176-608a-4315-87f3-5ac5f5024e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nxtgenaiacademy.com/techtalk/</value>
+      <webElementGuid>9b8406b9-1375-4232-a20f-0efc47aa3f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TechTalk</value>
+      <webElementGuid>8fe251ee-5a12-46ee-ac3e-c690580d4047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header_default header_default&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-9 col-sm-offset-0 hidden-xs hidden-sm&quot;]/div[@class=&quot;header_main_menu_wrapper clearfix&quot;]/div[@class=&quot;collapse navbar-collapse pull-right&quot;]/ul[@class=&quot;header-menu clearfix&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6374&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-5294&quot;]/a[1]</value>
+      <webElementGuid>2908959c-3f8d-4df7-b5d2-96d278173795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li[4]/ul/li/a</value>
+      <webElementGuid>5afd3e1b-46dc-4eb2-942f-5b68f1e2ed15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'TechTalk')])[2]</value>
+      <webElementGuid>ab170a79-b8de-4a4c-a474-fde4d45fcd5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Me'])[2]/following::a[1]</value>
+      <webElementGuid>096bb4f3-b619-4358-9aad-ace0f322953a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site – Progress Bar'])[2]/following::a[2]</value>
+      <webElementGuid>74329989-b111-478a-ac1e-e65faf9c86b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimonials'])[2]/preceding::a[1]</value>
+      <webElementGuid>31982dcd-362b-427a-b32c-a1980535dc7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Python for Automation'])[2]/preceding::a[2]</value>
+      <webElementGuid>9c9f17ae-9667-4968-84bc-753a7ddd8b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nxtgenaiacademy.com/techtalk/')])[2]</value>
+      <webElementGuid>c2ce480b-712e-43a3-a091-5e40fda14a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/ul/li/a</value>
+      <webElementGuid>c2944cf4-adc4-4f60-a359-42dcc18c34bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nxtgenaiacademy.com/techtalk/' and (text() = 'TechTalk' or . = 'TechTalk')]</value>
+      <webElementGuid>b221c9da-2ba1-4f49-8ac7-8bced04b9d1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

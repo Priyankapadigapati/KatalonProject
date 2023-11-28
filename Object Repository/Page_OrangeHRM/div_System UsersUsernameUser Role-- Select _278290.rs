@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_System UsersUsernameUser Role-- Select _278290</name>
+   <tag></tag>
+   <elementGuidId>6bae117e-15de-479d-8ba2-61fabdc3123b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41391f8c-6151-4f96-9047-79dde2b6a54b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>f72464da-213d-4612-bd73-2a7cda397f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search  Add  (8) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminPaul CollingsEnabledAlice.DuvalAdminPaul CollingsEnabledmugimaAdminHayat BarEnablednina123AdminMércia FrancoEnabledTest 1AdminMércia FrancoEnabledv73uep9mtoAdminAnshul .EnabledWelcome everyoneeeAdminAnshul .Enabledxwqvfzgjm7AdminAnshul .Enabled</value>
+      <webElementGuid>fc6caafe-6864-4064-a328-fc1c6b9d4d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>39947401-31eb-4cb2-a8e3-fec0e56f02af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>dd7babb0-0fdc-43f2-b024-a404d8645f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[5]</value>
+      <webElementGuid>c43fb800-8fce-40b1-a0dd-285bb1658bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[5]</value>
+      <webElementGuid>47bd625a-594c-4977-a4c8-3a6f142072fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>7cff245b-d506-4544-a18d-ac98c16c26e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search  Add  (8) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminPaul CollingsEnabledAlice.DuvalAdminPaul CollingsEnabledmugimaAdminHayat BarEnablednina123AdminMércia FrancoEnabledTest 1AdminMércia FrancoEnabledv73uep9mtoAdminAnshul .EnabledWelcome everyoneeeAdminAnshul .Enabledxwqvfzgjm7AdminAnshul .Enabled' or . = 'System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search  Add  (8) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminPaul CollingsEnabledAlice.DuvalAdminPaul CollingsEnabledmugimaAdminHayat BarEnablednina123AdminMércia FrancoEnabledTest 1AdminMércia FrancoEnabledv73uep9mtoAdminAnshul .EnabledWelcome everyoneeeAdminAnshul .Enabledxwqvfzgjm7AdminAnshul .Enabled')]</value>
+      <webElementGuid>bec6df5d-4e67-40a8-b201-c4452b98444a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
